@@ -1,0 +1,34 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: darkblue;
+    background-color: rgb(213, 147, 247);
+    border: 5px solid rgb(245, 103, 103);
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Cinzel, 'Times New Roman', Times, serif;
+}
+.declarations{
+    font-family: Cinzel, 'Times New Roman', Times, serif;
+    color: darkblue;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 50px;
+
+}
+table,th,td{
+    border: 1px solid rgb(245, 103, 103);
+    font-family: Cinzel,'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: blanchedalmond;
+    color: coral;
